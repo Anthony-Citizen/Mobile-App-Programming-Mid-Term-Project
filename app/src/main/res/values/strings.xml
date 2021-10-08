@@ -17,4 +17,11 @@
 
     <string name="hello_first_fragment">Hello first fragment</string>
     <string name="hello_second_fragment">Hello second fragment. Arg: %1$s</string>
+    <string name="https_www_geeksforgeeks_org"><a href="https://www.geeksforgeeks.org/">https://www.geeksforgeeks.org/</a></string>
+    <string name="referensi">REFERENSI</string>
+    <string name="https_www_youtube_com"><a href="https://www.youtube.com/">https://www.youtube.com/</a></string>
+    <string name="https_stackoverflow_com"><a href="https://stackoverflow.com/">https://stackoverflow.com/</a></string>
+    <string name="https_pixabay_com_sound_effects"><a href="https://pixabay.com/sound-effects/">https://pixabay.com/sound-effects/</a></string>
+    <string name="https_www_tabnine_com"><a href="https://www.tabnine.com/">https://www.tabnine.com/</a></string>
+    <string name="https_www_flaticon_com"><a href="https://www.flaticon.com/">https://www.flaticon.com/</a></string>
 </resources>

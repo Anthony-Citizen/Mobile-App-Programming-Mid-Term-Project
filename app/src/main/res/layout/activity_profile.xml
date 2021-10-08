@@ -47,5 +47,65 @@
             android:layout_gravity="center"
             android:text="IF570 - AL"
             android:textSize="20sp"/>
+
+        <TextView
+            android:id="@+id/tvRef"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:gravity="center"
+            android:layout_gravity="center"
+            android:layout_marginTop="15dp"
+            android:text="@string/referensi"
+            android:textSize="20sp"/>
+
+        <TextView
+            android:id="@+id/tvRef1"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:gravity="center"
+            android:layout_gravity="center"
+            android:layout_marginTop="15dp"
+            android:text="@string/https_www_geeksforgeeks_org"
+            android:textSize="15sp"/>
+        <TextView
+            android:id="@+id/tvRef2"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:gravity="center"
+            android:layout_gravity="center"
+            android:text="@string/https_www_youtube_com"
+            android:textSize="15sp"/>
+        <TextView
+            android:id="@+id/tvRef3"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:gravity="center"
+            android:layout_gravity="center"
+            android:text="@string/https_stackoverflow_com"
+            android:textSize="15sp"/>
+        <TextView
+            android:id="@+id/tvRef4"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:gravity="center"
+            android:layout_gravity="center"
+            android:text="@string/https_pixabay_com_sound_effects"
+            android:textSize="15sp"/>
+        <TextView
+            android:id="@+id/tvRef5"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:gravity="center"
+            android:layout_gravity="center"
+            android:text="@string/https_www_tabnine_com"
+            android:textSize="15sp"/>
+        <TextView
+            android:id="@+id/tvRef6"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:gravity="center"
+            android:layout_gravity="center"
+            android:text="@string/https_www_flaticon_com"
+            android:textSize="15sp"/>
     </LinearLayout>
 </LinearLayout>
