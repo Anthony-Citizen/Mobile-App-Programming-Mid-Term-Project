@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:orientation="horizontal"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:gravity="center"
+    tools:context=".Login">
+
+    <LinearLayout
+        android:layout_width="380dp"
+        android:layout_height="250dp"
+        android:background="@drawable/box"
+        android:orientation="vertical"
+        android:layout_gravity="center">
+
+        <TextView
+            android:id="@+id/tvLoginTitle"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:gravity="center"
+            android:layout_gravity="center"
+            android:text="@string/login_form"
+            android:textStyle="bold"
+            android:layout_marginTop="20dp"
+            android:textSize="30sp"/>
+
+        <EditText
+            android:id="@+id/send_text_id"
+            android:layout_width="300dp"
+            android:layout_height="wrap_content"
+            android:textSize="25dp"
+            android:hint="@string/input"
+            android:textStyle="bold"
+            android:layout_marginTop="30dp"
+            android:layout_gravity="center"/>
+
+        <Button
+            android:id="@+id/send_button_id"
+            android:layout_width="120dp"
+            android:layout_height="50dp"
+            android:text="@string/login"
+            android:layout_gravity="center"
+            android:textSize="20dp"
+            android:textStyle="bold"
+            android:layout_marginTop="30dp" />
+
+    </LinearLayout>
+
+</LinearLayout>
